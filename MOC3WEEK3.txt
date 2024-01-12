@@ -6,3 +6,4 @@ Clean formatting
 Long paragraphs that explore topics in depth.
 A way to contact you
 Unbiased, summaries of information from the experts
+Relevant and actionable recommendations
